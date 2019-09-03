@@ -1,0 +1,77 @@
+8/19/2019 4:04:12 PM	This log contains information about the import schema operation into project 'LaantiDuniya.Database' on computer 'IND04-L-822KMQ2' by user '10284087'.
+8/19/2019 4:04:12 PM	Import of database schema has started.
+8/19/2019 4:04:16 PM	Gathering database options
+8/19/2019 4:04:16 PM	Gathering users
+8/19/2019 4:04:16 PM	Gathering roles
+8/19/2019 4:04:16 PM	Gathering application roles
+8/19/2019 4:04:16 PM	Gathering role memberships
+8/19/2019 4:04:16 PM	Gathering filegroups
+8/19/2019 4:04:16 PM	Gathering full-text catalogs
+8/19/2019 4:04:16 PM	Gathering assemblies
+8/19/2019 4:04:16 PM	Gathering certificates
+8/19/2019 4:04:16 PM	Gathering asymmetric keys
+8/19/2019 4:04:16 PM	Gathering symmetric keys
+8/19/2019 4:04:16 PM	Gathering encrypted symmetric keys
+8/19/2019 4:04:16 PM	Gathering schemas
+8/19/2019 4:04:16 PM	Gathering XML schema collections
+8/19/2019 4:04:16 PM	Gathering user-defined data types
+8/19/2019 4:04:16 PM	Gathering user-defined types
+8/19/2019 4:04:16 PM	Gathering table types
+8/19/2019 4:04:16 PM	Gathering unique keys for table types
+8/19/2019 4:04:16 PM	Gathering primary keys for table types
+8/19/2019 4:04:16 PM	Gathering indexes for table types
+8/19/2019 4:04:16 PM	Gathering check constraints for table types
+8/19/2019 4:04:16 PM	Gathering default constraints for table types
+8/19/2019 4:04:16 PM	Gathering partition functions
+8/19/2019 4:04:16 PM	Gathering partition schemes
+8/19/2019 4:04:16 PM	Gathering functions
+8/19/2019 4:04:16 PM	Gathering encrypted functions
+8/19/2019 4:04:16 PM	Gathering aggregates
+8/19/2019 4:04:16 PM	Gathering procedures
+8/19/2019 4:04:16 PM	Gathering encrypted procedures
+8/19/2019 4:04:16 PM	Gathering tables
+8/19/2019 4:04:16 PM	Gathering primary keys
+8/19/2019 4:04:16 PM	Gathering unique constraints
+8/19/2019 4:04:16 PM	Gathering foreign keys
+8/19/2019 4:04:16 PM	Gathering default constraints
+8/19/2019 4:04:16 PM	Gathering check constraints
+8/19/2019 4:04:16 PM	Gathering views
+8/19/2019 4:04:16 PM	Gathering encrypted views
+8/19/2019 4:04:16 PM	Gathering indexes
+8/19/2019 4:04:16 PM	Gathering statistics
+8/19/2019 4:04:16 PM	Gathering full-text index stoplists
+8/19/2019 4:04:16 PM	Gathering search property lists
+8/19/2019 4:04:16 PM	Gathering search properties
+8/19/2019 4:04:16 PM	Gathering full-text indexes
+8/19/2019 4:04:16 PM	Gathering column store indexes
+8/19/2019 4:04:16 PM	Gathering spatial indexes
+8/19/2019 4:04:16 PM	Gathering XML indexes
+8/19/2019 4:04:16 PM	Gathering Selective XML indexes
+8/19/2019 4:04:16 PM	Gathering encrypted triggers
+8/19/2019 4:04:16 PM	Gathering triggers
+8/19/2019 4:04:16 PM	Gathering encrypted and clr ddl triggers
+8/19/2019 4:04:16 PM	Gathering ddl triggers
+8/19/2019 4:04:16 PM	Gathering synonyms
+8/19/2019 4:04:16 PM	Gathering defaults
+8/19/2019 4:04:16 PM	Gathering data constraint uddt bindings
+8/19/2019 4:04:16 PM	Gathering rules
+8/19/2019 4:04:16 PM	Gathering data constraint uddt bindings
+8/19/2019 4:04:16 PM	Gathering message types
+8/19/2019 4:04:16 PM	Gathering queues
+8/19/2019 4:04:16 PM	Gathering contracts
+8/19/2019 4:04:16 PM	Gathering services
+8/19/2019 4:04:16 PM	Gathering event notifications
+8/19/2019 4:04:16 PM	Gathering remote service bindings
+8/19/2019 4:04:16 PM	Gathering broker priorities
+8/19/2019 4:04:16 PM	Gathering signatures
+8/19/2019 4:04:16 PM	Gathering data compression options
+8/19/2019 4:04:16 PM	Gathering sequence types
+8/19/2019 4:04:16 PM	Gathering extended properties
+8/19/2019 4:04:17 PM	Gathering credentials
+8/19/2019 4:04:17 PM	Gathering logins
+8/19/2019 4:04:17 PM	Gathering server audits
+8/19/2019 4:04:17 PM	Scanning project for duplicate elements
+8/19/2019 4:04:17 PM	Finished duplicate element processing
+8/19/2019 4:04:17 PM	Finished importing database.
+8/19/2019 4:04:17 PM	A summary of the import was saved to the following location: C:\Projects\ReactJs\LaantiDuniya\LaantiDuniya.Database\Import Schema Logs\LaantiDuniya.Databas_20190819103412.log
+8/19/2019 4:04:17 PM	Click Finish to continue...

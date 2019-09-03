@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LaantiDuniya/LaantiDuniya.Business/obj
+/LaantiDuniya/LaantiDuniya.Data/bin/Debug/netcoreapp2.2
+/LaantiDuniya/LaantiDuniya.Data/obj
+/LaantiDuniya/LaantiDuniya.Database/bin/Debug
+/LaantiDuniya/LaantiDuniya.Database/obj/Debug
